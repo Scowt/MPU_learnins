@@ -1,0 +1,5 @@
+MANIFEST_VERSION = openstlinux-6.1-yocto-mickledore-mp1-v23.06.21
+KERNEL_DT = ./DeviceTree/STM32MP153D_initial/kernel
+OPTEE_DT = ./DeviceTree/STM32MP153D_initial/optee-os
+UBOOT_DT = ./DeviceTree/STM32MP153D_initial/u-boot
+TFA_DT = ./DeviceTree/STM32MP153D_initial/tf-a
